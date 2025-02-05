@@ -5,7 +5,7 @@ const BPMDisplay = ({ bpm }) => {
     return (
         <div className="bpm-container">
             <span className="bpm-value">{bpm}</span>
-            <span className="bpm-label">BPM</span>
+            <span className="bpm-label">bpm</span>
         </div>
     );
 };

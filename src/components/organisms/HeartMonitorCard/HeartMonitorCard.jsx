@@ -8,9 +8,8 @@ import "./HeartMonitorCard.css";
 const HeartMonitorCard = ({ bpm, isAnomaly, irregularityType, onHistoryClick }) => {
     return (
         <div className="heart-monitor-card">
-
-            <BPMDisplay bpm={bpm} />
-            <StatusIndicator isAnomaly={isAnomaly} />
+                <BPMDisplay bpm={bpm} />
+                <StatusIndicator isAnomaly={isAnomaly} />
 
             <Button onClick={onHistoryClick}>See history</Button>
 

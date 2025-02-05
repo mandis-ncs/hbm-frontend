@@ -1,12 +1,13 @@
 .label {
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 20px;
 }
 
 .label.normal {
-    background-color: #86efac;
-    color: white;
+    background-color: #b8ed82;
+    color: #508965;
 }
 
 .label.irregular {

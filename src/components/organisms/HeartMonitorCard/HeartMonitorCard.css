@@ -1,9 +1,8 @@
 .heart-monitor-card {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 15px;
+    background-color: #faf9f9;
+    padding: 40px;
+    border-radius: 30px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    width: 320px;
     text-align: center;
 }
 

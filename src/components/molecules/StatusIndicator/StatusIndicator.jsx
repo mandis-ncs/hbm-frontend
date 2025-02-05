@@ -10,7 +10,7 @@ const StatusIndicator = ({ isAnomaly, irregularityType }) => {
                 text={isAnomaly ? "Irregular" : "Normal"}
                 type={isAnomaly ? "irregular" : "normal"}
             />
-            <p className="status-text">The normal bpm is between 70 and 90</p>
+            <p className="status-text">The normal bpm is between 60 and 100</p>
         </div>
     );
 };
