@@ -1,0 +1,10 @@
+.status-indicator {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.status-text {
+    font-size: 14px;
+    color: #6b7280;
+}

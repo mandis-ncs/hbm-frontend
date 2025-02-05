@@ -1,0 +1,14 @@
+.heart-monitor-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 320px;
+    text-align: center;
+}
+
+.heart-monitor-text {
+    font-size: 12px;
+    color: #9ca3af;
+    margin-top: 10px;
+}

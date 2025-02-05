@@ -1,0 +1,16 @@
+.bpm-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bpm-value {
+    font-size: 60px;
+    font-weight: bold;
+    color: #f87171;
+}
+
+.bpm-label {
+    font-size: 18px;
+    color: #6b7280;
+}

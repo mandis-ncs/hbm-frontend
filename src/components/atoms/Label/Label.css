@@ -1,0 +1,15 @@
+.label {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.label.normal {
+    background-color: #86efac;
+    color: white;
+}
+
+.label.irregular {
+    background-color: #dc2626;
+    color: white;
+}
