@@ -142,7 +142,7 @@ This project depends on:
 - **Heart Beat Generator** (Simulates real ECG signals)
 
 🔗 **Backend Repo:** [HBM Backend](https://github.com/your-repo/hbm-backend)  
-🔗 **ECG Simulator:** [Heart Beat Generator](https://github.com/your-repo/heart-beat-generator)  
+🔗 **ECG Simulator:** [Heart Beat Generator](https://github.com/mandis-ncs/heart-beat-generator)  
 
 ------
 
